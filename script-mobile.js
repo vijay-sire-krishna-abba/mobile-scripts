@@ -5,7 +5,6 @@
 // @description  Capture video frame + timestamp + title and send to local server
 // @match        *://*.vimeo.com/*
 // @grant        GM_xmlhttpRequest
-// @require      file:///Users/vijay/Projects/Notes-Create/tampermonkey-vimeo/script-mobile.js
 // ==/UserScript==
 
 (function () {
